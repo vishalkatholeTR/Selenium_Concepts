@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\6125716\\source\\repos\\SeleniumConceptUnitTestProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18FCE347-1040-4583-8E8D-7BE0015AD8A7}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\users\\6125716\\source\\repos\\seleniumconceptunittestproject\\seleniumconceptunittestproject\\demo2test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FCE347-1040-4583-8E8D-7BE0015AD8A7}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\demo2test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FCE347-1040-4583-8E8D-7BE0015AD8A7}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\users\\6125716\\source\\repos\\seleniumconceptunittestproject\\seleniumconceptunittestproject\\demo3frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FCE347-1040-4583-8E8D-7BE0015AD8A7}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\demo3frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FCE347-1040-4583-8E8D-7BE0015AD8A7}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\users\\6125716\\source\\repos\\seleniumconceptunittestproject\\seleniumconceptunittestproject\\seleniumconceptunittestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18FCE347-1040-4583-8E8D-7BE0015AD8A7}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\seleniumconceptunittestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FCE347-1040-4583-8E8D-7BE0015AD8A7}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\users\\6125716\\source\\repos\\seleniumconceptunittestproject\\seleniumconceptunittestproject\\demoseleniumadvance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FCE347-1040-4583-8E8D-7BE0015AD8A7}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\demoseleniumadvance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demo3Frame.cs",
+              "DocumentMoniker": "C:\\Users\\6125716\\source\\repos\\SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject\\Demo3Frame.cs",
+              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\Demo3Frame.cs",
+              "ToolTip": "C:\\Users\\6125716\\source\\repos\\SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject\\Demo3Frame.cs",
+              "RelativeToolTip": "SeleniumConceptUnitTestProject\\Demo3Frame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:21:32.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demo2Test.cs",
+              "DocumentMoniker": "C:\\Users\\6125716\\source\\repos\\SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject\\Demo2Test.cs",
+              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\Demo2Test.cs",
+              "ToolTip": "C:\\Users\\6125716\\source\\repos\\SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject\\Demo2Test.cs",
+              "RelativeToolTip": "SeleniumConceptUnitTestProject\\Demo2Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:55:31.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeleniumConceptUnitTestProject.csproj",
+              "DocumentMoniker": "C:\\Users\\6125716\\source\\repos\\SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj",
+              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj",
+              "ToolTip": "C:\\Users\\6125716\\source\\repos\\SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj",
+              "RelativeToolTip": "SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T02:57:58.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoSeleniumAdvance.cs",
+              "DocumentMoniker": "C:\\Users\\6125716\\source\\repos\\SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject\\DemoSeleniumAdvance.cs",
+              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\DemoSeleniumAdvance.cs",
+              "ToolTip": "C:\\Users\\6125716\\source\\repos\\SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject\\DemoSeleniumAdvance.cs",
+              "RelativeToolTip": "SeleniumConceptUnitTestProject\\DemoSeleniumAdvance.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAtwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:58:46.447Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
